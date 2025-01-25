@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello, I'm Michael!
 
 <!--
 **mxayxana/mxayxana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+currently pursuing a master's in information technology at emporia state
+
+interested in web development, design, and networking/security
