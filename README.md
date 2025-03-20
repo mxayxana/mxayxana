@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 currently pursuing a master's in information technology at emporia state
 
-interested in web development, design, and networking/security
+interested in software engineering, QA, analyst, and networking/security.
