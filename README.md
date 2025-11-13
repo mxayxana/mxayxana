@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently pursuing a master's in information technology at emporia state
+currently pursuing a master's in information technology at emporia state - aspiring to launch my career in tech!
 
-interested in software engineering, QA, analyst, and networking/security.
+interested in software engineering, UIUX, QA, and BA.
