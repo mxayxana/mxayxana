@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently pursuing a master's in information technology at emporia state - aspiring to launch my career in tech!
+currently pursuing a master's in information technology at emporia state - incoming technical support specialist @ garmin!
 
-interested in software engineering, UIUX, QA, and BA.
+occasionally codes for fun.
