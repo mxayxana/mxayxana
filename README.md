@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently pursuing a master's in information technology at emporia state - incoming technical support specialist @ garmin!
+M.S. in Information Technology
 
-occasionally codes for fun.
+technical support specialist 1 @ garmin!
+
+occasionally codes for fun hehe. 
